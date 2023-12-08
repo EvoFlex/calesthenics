@@ -111,7 +111,7 @@ html{
     margin-left: 2rem;
     font-size: 1.7rem;
     text-transform: uppercase;
-    color :white ; 
+    color : white ; 
 }
 
 
@@ -123,7 +123,7 @@ html{
 .header .navbar .btn{
     padding: .6rem 3rem;
     background-color:black ;
-    color: #fff;
+    color: white ;
     border-radius: .5rem;
 }
 
