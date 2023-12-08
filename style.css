@@ -63,7 +63,7 @@ html{
 .all-btn{
     padding: 1rem 3rem;
     font-size: 1.5rem;
-    background-color: var(--Soft-Blue);
+    background-color: orange;
     border-radius: .5rem;
     color: #fff;
     background-color : red ;
@@ -71,9 +71,9 @@ html{
 
 .all-btn:hover{
     background-color: transparent;
-    color: var(--Soft-Blue);
+    color: red;
     border: 2px solid var(--Soft-Blue);
-    background-color : red ; 
+    
 }
 
 
