@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;600;700&display=swap');
 
 *{
-    background-color : gray ;
+    background-color : black ;
     font-family: 'Poppins', sans-serif;
     margin: 0;
     padding: 0;
@@ -99,7 +99,7 @@ html{
     right: 0%;
     left: 0;
     z-index: 10000;
-    background-color: gray;
+    background-color: black;
     box-shadow: 0rem 0.5rem 1.5rem rgba(0, 0, 0, .1);
 }
 
@@ -124,7 +124,7 @@ html{
 
 .header .navbar .btn{
     padding: .6rem 3rem;
-    background-color:gray ;
+    background-color:black ;
     color: white ;
     border-radius: .5rem;
 }
@@ -175,7 +175,7 @@ html{
         width: 33rem;
         border-radius: .5rem;
         border: 2px solid var(--Soft-Blue);
-        background-color: #fff;
+        background-color: black;
         transform: scale(0);
         transform-origin: top right;
     }
