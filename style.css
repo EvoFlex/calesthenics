@@ -111,6 +111,7 @@ html{
     margin-left: 2rem;
     font-size: 1.7rem;
     text-transform: uppercase;
+    color :white ; 
 }
 
 
@@ -134,7 +135,7 @@ html{
 
 #menu-btn{
     padding: 1rem 1rem;
-    background-color: #eee;
+    background-color: orange;
     font-size: 3rem;
     color: var(--Soft-Blue);
     border-radius: .5rem;
