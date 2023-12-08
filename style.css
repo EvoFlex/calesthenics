@@ -97,7 +97,7 @@ html{
     right: 0%;
     left: 0;
     z-index: 10000;
-    background-color: #fff;
+    background-color: black;
     box-shadow: 0rem 0.5rem 1.5rem rgba(0, 0, 0, .1);
 }
 
@@ -121,7 +121,7 @@ html{
 
 .header .navbar .btn{
     padding: .6rem 3rem;
-    background-color: var(--Soft-Red);
+    background-color:black ;
     color: #fff;
     border-radius: .5rem;
 }
