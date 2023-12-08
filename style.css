@@ -66,12 +66,14 @@ html{
     background-color: var(--Soft-Blue);
     border-radius: .5rem;
     color: #fff;
+    background-color : red ;
 }
 
 .all-btn:hover{
     background-color: transparent;
     color: var(--Soft-Blue);
     border: 2px solid var(--Soft-Blue);
+    background-color : red ; 
 }
 
 
